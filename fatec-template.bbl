@@ -1,0 +1,589 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{Ansys2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4c3f8d0d4ac26494ebfbf053206e390}{%
+           family={{Ansys}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4c3f8d0d4ac26494ebfbf053206e390}
+      \strng{fullhash}{c4c3f8d0d4ac26494ebfbf053206e390}
+      \strng{fullhashraw}{c4c3f8d0d4ac26494ebfbf053206e390}
+      \strng{bibnamehash}{c4c3f8d0d4ac26494ebfbf053206e390}
+      \strng{authorbibnamehash}{c4c3f8d0d4ac26494ebfbf053206e390}
+      \strng{authornamehash}{c4c3f8d0d4ac26494ebfbf053206e390}
+      \strng{authorfullhash}{c4c3f8d0d4ac26494ebfbf053206e390}
+      \strng{authorfullhashraw}{c4c3f8d0d4ac26494ebfbf053206e390}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Internet of Things (IoT) and Biomedical Sensors}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ansys.com/products/iot
+      \endverb
+      \verb{url}
+      \verb https://www.ansys.com/products/iot
+      \endverb
+    \endentry
+    \entry{Charlton2023}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=19f4963588ad1bb1520dd21ece508cdf}{%
+           family={Charlton},
+           familyi={C\bibinitperiod},
+           given={Peter\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b456bf2b91b3463010382abf2344c47}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70f2789f223b73cc14c97c42ba8c3800}{%
+           family={Bailón},
+           familyi={B\bibinitperiod},
+           given={Raquel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aad5102cb0d2a8f8144cf3add9effb34}{%
+           family={Marozas},
+           familyi={M\bibinitperiod},
+           given={Vaidotas},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1819952e220c21ac30b12694111628a7}{%
+           family={Nemati},
+           familyi={N\bibinitperiod},
+           given={Shamim},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06cba8b06ea200ddda2bd3ce66888111}{%
+           family={Nilsson},
+           familyi={N\bibinitperiod},
+           given={Lennart},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=117b03fa77b5b7b600926a1af43f5fd6}{%
+           family={Pelaez-Coca},
+           familyi={P\bibinithyphendelim C\bibinitperiod},
+           given={Maria\bibnamedelima Dolores},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=258998d30f987d529a6dc799014d779b}{%
+           family={Wiard},
+           familyi={W\bibinitperiod},
+           given={Rudy},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ea337f5bb64938742971ccc0e350271}{%
+           family={Addison},
+           familyi={A\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4151c6650c8e61e221bb5077aad9723}{%
+           family={Aston},
+           familyi={A\bibinitperiod},
+           given={Philip\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0e145819831bb53a48e738f1c7e5e336}
+      \strng{fullhash}{5093c0d8a63d1b1fce758bbd09901413}
+      \strng{fullhashraw}{5093c0d8a63d1b1fce758bbd09901413}
+      \strng{bibnamehash}{0e145819831bb53a48e738f1c7e5e336}
+      \strng{authorbibnamehash}{0e145819831bb53a48e738f1c7e5e336}
+      \strng{authornamehash}{0e145819831bb53a48e738f1c7e5e336}
+      \strng{authorfullhash}{5093c0d8a63d1b1fce758bbd09901413}
+      \strng{authorfullhashraw}{5093c0d8a63d1b1fce758bbd09901413}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physiological Measurement}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{The 2023 wearable photoplethysmography roadmap}
+      \field{volume}{44}
+      \field{year}{2023}
+      \field{pages}{111001}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-6579/acead2
+      \endverb
+    \endentry
+    \entry{PubMedSAFARIS}{article}{}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PubMed}
+      \field{title}{Frequency of cardiac arrhythmias in older adults: Findings from the Subclinical Atrial Fibrillation and Risk of Ischemic Stroke (SAFARIS) study}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pubmed.ncbi.nlm.nih.gov
+      \endverb
+      \verb{url}
+      \verb https://pubmed.ncbi.nlm.nih.gov
+      \endverb
+    \endentry
+    \entry{JAMAAtrialFib}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fbdb7e0d336f982659d7bcb879ed08a1}{%
+           family={{JAMA Network}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fbdb7e0d336f982659d7bcb879ed08a1}
+      \strng{fullhash}{fbdb7e0d336f982659d7bcb879ed08a1}
+      \strng{fullhashraw}{fbdb7e0d336f982659d7bcb879ed08a1}
+      \strng{bibnamehash}{fbdb7e0d336f982659d7bcb879ed08a1}
+      \strng{authorbibnamehash}{fbdb7e0d336f982659d7bcb879ed08a1}
+      \strng{authornamehash}{fbdb7e0d336f982659d7bcb879ed08a1}
+      \strng{authorfullhash}{fbdb7e0d336f982659d7bcb879ed08a1}
+      \strng{authorfullhashraw}{fbdb7e0d336f982659d7bcb879ed08a1}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JAMA}
+      \field{title}{Atrial fibrillation: A Review}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://jamanetwork.com
+      \endverb
+      \verb{url}
+      \verb https://jamanetwork.com
+      \endverb
+    \endentry
+    \entry{Lubitz2022}{article}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=cc9ea0b809ef1d25852274d1ed79cd7f}{%
+           family={Lubitz},
+           familyi={L\bibinitperiod},
+           given={Steven\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d55b81a8e294c83a3740982c9b25615}{%
+           family={Faranesh},
+           familyi={F\bibinitperiod},
+           given={Alexander\bibnamedelima Z.},
+           giveni={A\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a42eec62484f9e7b64902d892384d5d}{%
+           family={Selvaggi},
+           familyi={S\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c40aa0ffca4266a37605eff64d8a3ecc}{%
+           family={Atlas},
+           familyi={A\bibinitperiod},
+           given={Steven\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8c94b874ea3ffc9341e5c9fc694b825}{%
+           family={McManus},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6188fa3885b3cfccae967220838c5609}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=331c155462d7eccfa4f4dd5acfc2b8b5}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Joon},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e6161a46ea896995fe74030404f263a}{%
+           family={Khurshid},
+           familyi={K\bibinitperiod},
+           given={Shaan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15016f25f147214ee12b3ee817b8826b}{%
+           family={Turakhia},
+           familyi={T\bibinitperiod},
+           given={Mintu\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=449f37b68351a2a004f799d9c0d1c77b}{%
+           family={Benjamin},
+           familyi={B\bibinitperiod},
+           given={Emelia\bibnamedelima J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f66439929a95109d7912306caa769bcd}{%
+           family={Ellinor},
+           familyi={E\bibinitperiod},
+           given={Patrick\bibnamedelima T.},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a20d7544e45e908cfc065a0cc9edccec}
+      \strng{fullhash}{791efbd1cc1a6e9fc7b620ace1f4863d}
+      \strng{fullhashraw}{791efbd1cc1a6e9fc7b620ace1f4863d}
+      \strng{bibnamehash}{a20d7544e45e908cfc065a0cc9edccec}
+      \strng{authorbibnamehash}{a20d7544e45e908cfc065a0cc9edccec}
+      \strng{authornamehash}{a20d7544e45e908cfc065a0cc9edccec}
+      \strng{authorfullhash}{791efbd1cc1a6e9fc7b620ace1f4863d}
+      \strng{authorfullhashraw}{791efbd1cc1a6e9fc7b620ace1f4863d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Circulation}
+      \field{month}{11}
+      \field{number}{19}
+      \field{title}{Detection of Atrial Fibrillation in a Large Population Using Wearable Devices: The Fitbit Heart Study}
+      \field{volume}{146}
+      \field{year}{2022}
+      \field{pages}{1415\bibrangedash 1424}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1161/CIRCULATIONAHA.122.060291
+      \endverb
+    \endentry
+    \entry{MinisterioSaude2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1c81f07bc381d0b027a5c64d410ed53}{%
+           family={{Ministério da Saúde}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{fullhash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{fullhashraw}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{bibnamehash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{authorbibnamehash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{authornamehash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{authorfullhash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{authorfullhashraw}{e1c81f07bc381d0b027a5c64d410ed53}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AVC é a segunda principal causa de morte no Brasil}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gov.br/saude
+      \endverb
+      \verb{url}
+      \verb https://www.gov.br/saude
+      \endverb
+    \endentry
+    \entry{PortalAfya2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a9411be2acf37e82bead362bc93dfed7}{%
+           family={{Portal Afya}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9411be2acf37e82bead362bc93dfed7}
+      \strng{fullhash}{a9411be2acf37e82bead362bc93dfed7}
+      \strng{fullhashraw}{a9411be2acf37e82bead362bc93dfed7}
+      \strng{bibnamehash}{a9411be2acf37e82bead362bc93dfed7}
+      \strng{authorbibnamehash}{a9411be2acf37e82bead362bc93dfed7}
+      \strng{authornamehash}{a9411be2acf37e82bead362bc93dfed7}
+      \strng{authorfullhash}{a9411be2acf37e82bead362bc93dfed7}
+      \strng{authorfullhashraw}{a9411be2acf37e82bead362bc93dfed7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ondas P no Eletrocardiograma: Interpretação Clínica}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.afya.com.br
+      \endverb
+      \verb{url}
+      \verb https://www.afya.com.br
+      \endverb
+    \endentry
+    \entry{JMIRContactless2024}{article}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JMIR mHealth and uHealth}
+      \field{title}{Reliable Contactless Monitoring of Heart Rate, Breathing Rate, and Breathing Disturbance During Sleep in Aging: Digital Health Technology Evaluation Study}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://mhealth.jmir.org
+      \endverb
+      \verb{url}
+      \verb https://mhealth.jmir.org
+      \endverb
+    \endentry
+    \entry{SnifBrasil2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c4b81496a95b642f782ce44d1f000d8}{%
+           family={{Snif Brasil}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c4b81496a95b642f782ce44d1f000d8}
+      \strng{fullhash}{5c4b81496a95b642f782ce44d1f000d8}
+      \strng{fullhashraw}{5c4b81496a95b642f782ce44d1f000d8}
+      \strng{bibnamehash}{5c4b81496a95b642f782ce44d1f000d8}
+      \strng{authorbibnamehash}{5c4b81496a95b642f782ce44d1f000d8}
+      \strng{authornamehash}{5c4b81496a95b642f782ce44d1f000d8}
+      \strng{authorfullhash}{5c4b81496a95b642f782ce44d1f000d8}
+      \strng{authorfullhashraw}{5c4b81496a95b642f782ce44d1f000d8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Alterações cardíacas durante o sono}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.snifbrasil.com.br
+      \endverb
+      \verb{url}
+      \verb https://www.snifbrasil.com.br
+      \endverb
+    \endentry
+    \entry{TimarFulepPPG}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d74281e999b5856a2e356422f9f83187}{%
+           family={Timar-Fulep},
+           familyi={T\bibinithyphendelim F\bibinitperiod},
+           given={Csilla},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d74281e999b5856a2e356422f9f83187}
+      \strng{fullhash}{d74281e999b5856a2e356422f9f83187}
+      \strng{fullhashraw}{d74281e999b5856a2e356422f9f83187}
+      \strng{bibnamehash}{d74281e999b5856a2e356422f9f83187}
+      \strng{authorbibnamehash}{d74281e999b5856a2e356422f9f83187}
+      \strng{authornamehash}{d74281e999b5856a2e356422f9f83187}
+      \strng{authorfullhash}{d74281e999b5856a2e356422f9f83187}
+      \strng{authorfullhashraw}{d74281e999b5856a2e356422f9f83187}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ANSYS Blog}
+      \field{title}{Using Photoplethysmography (PPG) for Designing Optical Heart Rate Sensors}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ansys.com/blog
+      \endverb
+      \verb{url}
+      \verb https://www.ansys.com/blog
+      \endverb
+    \endentry
+    \entry{DeVries2023}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=fb25297ae75d6fb00514742be319083b}{%
+           family={Vries},
+           familyi={V\bibinitperiod},
+           given={H.\bibnamedelimi J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=ce438eace745f2e8c222fbc920ee6d6f}{%
+           family={Pennings},
+           familyi={P\bibinitperiod},
+           given={H.\bibnamedelimi J.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74e234da42ed18a358322e6f80e97ea7}{%
+           family={Schans},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=0aaebb496d68f9074d4a4ef6b052ca6f}{%
+           family={Sanderman},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1a18ddf956488325e559af74bc47a82}{%
+           family={Oldenhuis},
+           familyi={O\bibinitperiod},
+           given={H.\bibnamedelimi K.\bibnamedelimi E.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18b0d9d632282d85b8863d23abd651a5}{%
+           family={Kamphuis},
+           familyi={K\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6f456522fdde1a1060d5793a853589d6}
+      \strng{fullhash}{cd25a1dfede09ba3c428a51767a5718c}
+      \strng{fullhashraw}{cd25a1dfede09ba3c428a51767a5718c}
+      \strng{bibnamehash}{6f456522fdde1a1060d5793a853589d6}
+      \strng{authorbibnamehash}{6f456522fdde1a1060d5793a853589d6}
+      \strng{authornamehash}{6f456522fdde1a1060d5793a853589d6}
+      \strng{authorfullhash}{cd25a1dfede09ba3c428a51767a5718c}
+      \strng{authorfullhashraw}{cd25a1dfede09ba3c428a51767a5718c}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{1}
+      \field{title}{Wearable-Measured Sleep and Resting Heart Rate Variability as an Outcome of and Predictor for Subjective Stress Measures: A Multiple N-of-1 Observational Study}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{332}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s23010332
+      \endverb
+    \endentry
+    \entry{WJGNetStrokeRisk}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e5c9cc6706ab478ce19ceaf0534732cb}{%
+           family={{WJGNet}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5c9cc6706ab478ce19ceaf0534732cb}
+      \strng{fullhash}{e5c9cc6706ab478ce19ceaf0534732cb}
+      \strng{fullhashraw}{e5c9cc6706ab478ce19ceaf0534732cb}
+      \strng{bibnamehash}{e5c9cc6706ab478ce19ceaf0534732cb}
+      \strng{authorbibnamehash}{e5c9cc6706ab478ce19ceaf0534732cb}
+      \strng{authornamehash}{e5c9cc6706ab478ce19ceaf0534732cb}
+      \strng{authorfullhash}{e5c9cc6706ab478ce19ceaf0534732cb}
+      \strng{authorfullhashraw}{e5c9cc6706ab478ce19ceaf0534732cb}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Journal of Gastroenterology}
+      \field{title}{Atrial fibrillation burden and the risk of stroke: A systematic review and dose-response meta-analysis}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.wjgnet.com
+      \endverb
+      \verb{url}
+      \verb https://www.wjgnet.com
+      \endverb
+    \endentry
+    \entry{WHO2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=531217507bec092b6ec36c0f78f46736}{%
+           family={{World Health Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhashraw}{531217507bec092b6ec36c0f78f46736}
+      \strng{bibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorbibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authornamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhashraw}{531217507bec092b6ec36c0f78f46736}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Stroke Statistics and Global Impact}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.who.int/news-room/fact-sheets/detail/stroke
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/news-room/fact-sheets/detail/stroke
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

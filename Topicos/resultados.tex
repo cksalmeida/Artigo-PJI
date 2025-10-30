@@ -1,0 +1,35 @@
+Até o momento, o projeto alcançou resultados relevantes, destacando-se o desenvolvimento de um protótipo funcional do sistema de monitoramento inteligente de sono, a validação experimental em ambiente laboratorial e a implementação dos módulos de coleta, armazenamento e visualização dos dados fisiológicos. Os testes realizados confirmaram a viabilidade técnica do sistema, demonstrando coerência nos sinais captados e estabilidade na comunicação entre o Arduino e a aplicação de backend.
+
+\subsection*{Coleta e estabilidade dos sinais}
+
+Durante os testes, o sensor óptico de fotopletismografia (PPG), acoplado ao Arduino, apresentou resposta estável e contínua na leitura dos batimentos cardíacos. Esse resultado confirma a viabilidade do uso do sensor em aplicações de monitoramento não invasivo, desde que o dispositivo esteja adequadamente fixado e em ambiente com baixa interferência luminosa.
+
+Os dados coletados incluíram frequência cardíaca (BPM), padrão rítmico de pulso e nível relativo de perfusão, permitindo a análise da regularidade dos ciclos cardíacos durante o repouso. Essa base inicial de dados já fornece indícios sobre a detecção de variações de ritmo compatíveis com episódios de arritmia leve, que serão posteriormente exploradas na etapa de aplicação da Inteligência Artificial.
+
+Entretanto, o estágio atual ainda apresenta limitações inerentes à fase inicial de prototipagem. O dispositivo permanece fisicamente conectado ao computador via cabo, o que restringe a mobilidade do usuário e inviabiliza o uso contínuo durante o sono em condições domésticas reais. Além disso, a transmissão dos dados não ocorre de forma autônoma, dependendo de um intermediário local para envio das medições ao banco de dados, o que limita a escalabilidade do sistema.
+
+Essas restrições, no entanto, já foram consideradas na arquitetura do projeto. A versão futura prevê a integração de módulos de conectividade sem fio, como Wi-Fi ou Bluetooth Low Energy (BLE), permitindo que o dispositivo opere de forma totalmente independente e envie os dados diretamente à API, responsável por orquestrar a comunicação entre sensores, banco de dados e camada de análise.
+
+\subsection*{Transmissão e integração dos módulos}
+
+O script em Python foi testado com sucesso na leitura serial dos dados provenientes do Arduino, realizando a padronização e o envio para a API em Nest.js. 
+
+Durante os testes iniciais de integração, foi possível verificar a comunicação consistente entre os módulos de coleta e armazenamento, assegurando que os dados captados pelo Arduino fossem transmitidos corretamente para a API e posteriormente, armazenados no banco de dados MongoDB Atlas. Ainda que a etapa de validação quantitativa em larga escala esteja em fase de planejamento, os resultados preliminares indicam estabilidade no fluxo de dados e funcionamento adequado das rotas RESTful, confirmando a viabilidade técnica da arquitetura proposta para monitoramento contínuo e armazenamento seguro das informações fisiológicas.
+
+\subsection*{Visualização e interpretação dos dados}
+
+A interface de visualização desenvolvida em Next.js apresentou excelente desempenho na renderização dos dados armazenados, permitindo a análise gráfica da frequência cardíaca e do ritmo pulsátil após cada sessão de monitoramento.
+
+O dashboard médico foi projetado para oferecer uma visão unificada e intuitiva dos parâmetros vitais, apresentando:\\
+
+\begin{itemize}[itemsep=0.5em]
+    \item Gráficos dinâmicos de variação de BPM;
+    \item Indicadores de estabilidade cardíaca;
+    \item Logs de eventos anômalos;\\
+\end{itemize}
+
+Esses recursos facilitam a interpretação clínica dos dados coletados, fornecendo ao profissional de saúde subsídios objetivos para apoiar decisões baseadas em evidências. Embora a camada de Inteligência Artificial ainda não esteja implementada, a arquitetura do sistema foi planejada para permitir a integração futura de modelos preditivos no backend sem necessidade de reestruturação.
+
+De forma geral, os resultados preliminares demonstram que o projeto é tecnicamente viável e operacionalmente estável. O desempenho do sistema no ambiente laboratorial indica alta confiabilidade na coleta e transmissão dos sinais vitais, eficiência na comunicação entre módulos e adequada responsividade da interface web.
+
+Esses avanços estabelecem uma base sólida para a próxima etapa do projeto, que consistirá na implementação e treinamento dos modelos de IA voltados à detecção automática de anomalias cardíacas e predição de risco de AVC. Essa evolução permitirá validar o potencial do sistema como ferramenta de apoio à decisão médica, reforçando seu propósito central de atuar preventivamente na preservação da vida e na melhoria da saúde cardiovascular de idosos.
